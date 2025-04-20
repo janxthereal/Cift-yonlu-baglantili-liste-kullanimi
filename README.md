@@ -48,5 +48,5 @@ gcc cift_baglantili_liste_odev.c -o ogrenci_sistem
 
 ## Gereksinimler
 
-- C derleyicisi (GCC önerilir)
+- C derleyicisi
 - Windows işletim sistemi (windows.h kütüphanesi kullanıldığı için)
